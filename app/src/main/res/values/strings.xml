@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">New_Java_ReactNative_POC</string>
+    <string name="move_to_screen_1">Move to Screen 1</string>
+    <string name="move_to_reactnative">Move to ReactNative</string>
+</resources>
